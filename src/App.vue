@@ -1,9 +1,12 @@
+<!--
+ * @Date: 2023-03-02 15:28:36
+ * @LastEditors: zhangshuangli
+ * @LastEditTime: 2023-03-02 15:34:45
+ * @Description: 这是****文件
+-->
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
+    跟文件
     <router-view/>
   </div>
 </template>
